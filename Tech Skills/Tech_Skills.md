@@ -7,6 +7,8 @@
 - CSS3 / SCSS
 - RxJS
 - Other frameworks (React, Vue.js) – working familiarity
+- Next.js
+- SSR / CSR rendering strategies
 
 **Modern Angular**
 
@@ -43,6 +45,7 @@
 - WebSockets
 - Backend API design and data integration strategies
 - Micro frontends (Module Federation / Native Federation)
+- OpenAPI documentation
 
 **Performance & Security**
 
@@ -51,6 +54,10 @@
 - Bundle size optimization
 - Web performance (Core Web Vitals, profiling, bottleneck analysis)
 - Frontend security (XSS, CSRF, CSP, secure auth flows)
+- JWT, RBAC, Azure AD (identity & access management)
+- CORS, rate limiting, secret management
+- Runtime debugging, profiling and root-cause analysis
+- Low-latency system optimization
 
 **Testing**
 
@@ -66,6 +73,27 @@
 - Angular CLI / esbuild / Vite
 - Nx / monorepos
 
+**Back-End**
+
+- Node.js
+- Express.js
+- Layered architecture, repository pattern
+- RESTful API design
+- Microservices
+- Multi-tenancy
+- Centralized error handling
+- MSSQL
+- MongoDB
+
+**Cloud & Observability**
+
+- Azure App Service
+- Azure Service Bus
+- Azure Blob Storage
+- Release automation and environment configuration
+- OpenTelemetry (distributed tracing)
+- Grafana
+
 **Architecture & Practices**
 
 - Frontend architecture (scalable, maintainable, documented)
@@ -76,6 +104,7 @@
 - Clean code
 - Code reviews
 - Cross-team architectural initiatives
+- Architectural reviews and partnering with product management
 - Open-source contributions / frontend community involvement
 
 **AI-Assisted Development**
@@ -83,6 +112,9 @@
 - Claude Code
 - Cursor
 - Augment
+- GitHub Copilot
+- GenAI, RAG, LangChain
+- Agentic workflows (planner-worker orchestration, automated validation loops)
 
 **DevOps & Process**
 
