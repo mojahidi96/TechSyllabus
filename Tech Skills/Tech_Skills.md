@@ -9,6 +9,7 @@
 - React (hooks, component patterns) and Vue.js – working familiarity
 - Next.js
 - SSR / CSR rendering strategies
+- Static Site Generation (SSG)
 
 **Modern Angular**
 
@@ -76,6 +77,7 @@
 - Jest
 - Cypress
 - Playwright
+- API testing and UI test automation
 - Front-end testing strategy and integration testing
 
 **Build & Tooling**
@@ -90,14 +92,18 @@
 - Node.js
 - Express.js
 - Java Spring Boot and Python – working familiarity
+- .NET – working familiarity
 - Layered architecture, repository pattern
 - RESTful API design
 - Microservices
+- Event-driven architecture and message queues
 - Multi-tenancy
 - Centralized error handling
 - MSSQL
 - MongoDB
 - SQL and NoSQL database architecture
+- PostgreSQL, MySQL
+- Cosmos DB, DynamoDB
 
 **Cloud & Observability**
 
@@ -108,6 +114,9 @@
 - OpenTelemetry (distributed tracing)
 - Grafana
 - AWS, Azure, GCP deployment
+- Docker and Kubernetes (containerization, orchestration)
+- Cloud-native deployments (scalability, security, compliance)
+- Logging, monitoring and distributed tracing
 - Cloud cost optimization and scaling of full-stack infrastructure
 
 **Architecture & Practices**
@@ -119,7 +128,10 @@
 - Technology and tool evaluation / selection
 - Clean code
 - Code reviews
+- Engineering standards and quality governance
 - Cross-team architectural initiatives
+- Enterprise SaaS application development
+- Full SDLC ownership (plan, design, develop, test, deploy, operate, optimize)
 - Architectural reviews and partnering with product management
 - Open-source contributions / frontend community involvement
 - Shared components and consistent design patterns across FE/BE teams
@@ -133,12 +145,18 @@
 - GitHub Copilot
 - GenAI, RAG, LangChain
 - Agentic workflows (planner-worker orchestration, automated validation loops)
+- Copilot Workspace
+- Prompt engineering for software development
+- AI agents for code generation, testing, documentation and review
+- Responsible AI, governance frameworks, human-in-the-loop
+- Improving engineering productivity through AI-driven automation
 - AI-augmented toolchains and AI experience design standards
 - AI / solution architecture certifications (AWS, Azure, GCP)
 
 **DevOps & Process**
 
 - Git
+- Branching strategies
 - CI/CD
 - CI/CD pipeline standards for front-end (GitHub Actions, Azure DevOps, Jenkins)
 - Agile / cross-functional teams
