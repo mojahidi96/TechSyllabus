@@ -85,7 +85,7 @@
 - Vitest, React Testing Library
 - API testing and UI test automation
 - Front-end testing strategy and integration testing
-- TDD / BDD
+- TDD / BDD (Cucumber)
 
 **Build & Tooling**
 
@@ -99,6 +99,7 @@
 
 - Node.js
 - Express.js
+- MEAN stack (MongoDB, Express, Angular, Node.js)
 - Java Spring Boot and Python – working familiarity
 - Adobe Experience Manager (AEM) – nice to have
 - .NET / .NET Core / C# backend development
@@ -109,6 +110,7 @@
 - Multi-tenancy
 - Centralized error handling
 - MSSQL
+- DB2 (legacy)
 - MongoDB
 - SQL and NoSQL database architecture
 - PostgreSQL, MySQL
@@ -129,8 +131,9 @@
 - Grafana
 - Splunk, Honeycomb
 - AWS, Azure, GCP deployment
-- Docker and Kubernetes (containerization, orchestration)
+- Docker and Kubernetes (containerization, orchestration), AWS EKS
 - AWS EC2, S3, Lambda (serverless) and DynamoDB
+- AWS Kinesis, Firehose, CloudWatch
 - Cloud-native deployments (scalability, security, compliance)
 - Logging, monitoring and distributed tracing
 - Cloud cost optimization and scaling of full-stack infrastructure
@@ -145,21 +148,8 @@
 - Technology and tool evaluation / selection
 - Clean code
 - Code reviews
-- Data structures and engineering fundamentals
-- Estimation and meeting delivery timelines
-- Safe rollout strategies and release hygiene
-- Pairing and incident learnings
 - Engineering standards and quality governance
 - Cross-team architectural initiatives
-- Full-stack development (about 70/30 front-end to back-end)
-- Representing the team in technical meetings
-- Working independently and driving technical decisions
-- Influencing technical decisions without authority
-- Enterprise SaaS application development
-- Product-led delivery in product organizations
-- Awareness of enterprise technology landscape and interfacing systems
-- Information security and compliance policies
-- Full SDLC ownership (plan, design, develop, test, deploy, operate, optimize)
 - Architectural reviews and partnering with product management
 - Open-source contributions / frontend community involvement
 - Shared components and consistent design patterns across FE/BE teams
@@ -208,8 +198,8 @@
 - Mentoring
 - Leading projects to completion on time
 - Leading a small, distributed team across business units
+- Presentation and client-facing skills
 - Communicating technical considerations to non-technical stakeholders
-- Leading and growing a diverse team, knowledge sharing and internal learning
 - Troubleshooting / problem-solving
 - Staying current with emerging frontend trends
 - Oral and written English proficiency
