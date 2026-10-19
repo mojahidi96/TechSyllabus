@@ -79,6 +79,7 @@
 - Playwright
 - API testing and UI test automation
 - Front-end testing strategy and integration testing
+- TDD / BDD
 
 **Build & Tooling**
 
@@ -92,6 +93,7 @@
 - Node.js
 - Express.js
 - Java Spring Boot and Python – working familiarity
+- Adobe Experience Manager (AEM) – nice to have
 - .NET – working familiarity
 - Layered architecture, repository pattern
 - RESTful API design
@@ -113,8 +115,10 @@
 - Release automation and environment configuration
 - OpenTelemetry (distributed tracing)
 - Grafana
+- Splunk, Honeycomb
 - AWS, Azure, GCP deployment
 - Docker and Kubernetes (containerization, orchestration)
+- AWS EC2, S3, Lambda (serverless) and DynamoDB
 - Cloud-native deployments (scalability, security, compliance)
 - Logging, monitoring and distributed tracing
 - Cloud cost optimization and scaling of full-stack infrastructure
@@ -131,6 +135,9 @@
 - Engineering standards and quality governance
 - Cross-team architectural initiatives
 - Enterprise SaaS application development
+- Product-led delivery in product organizations
+- Awareness of enterprise technology landscape and interfacing systems
+- Information security and compliance policies
 - Full SDLC ownership (plan, design, develop, test, deploy, operate, optimize)
 - Architectural reviews and partnering with product management
 - Open-source contributions / frontend community involvement
@@ -157,6 +164,9 @@
 
 - Git
 - Branching strategies
+- Code promotion across dev/test/prod environments
+- Production support and change control documentation
+- Jira, Confluence
 - CI/CD
 - CI/CD pipeline standards for front-end (GitHub Actions, Azure DevOps, Jenkins)
 - Agile / cross-functional teams
@@ -168,6 +178,7 @@
 - Collaboration
 - Ownership
 - Mentoring
+- Communicating technical considerations to non-technical stakeholders
 - Leading and growing a diverse team, knowledge sharing and internal learning
 - Troubleshooting / problem-solving
 - Staying current with emerging frontend trends
