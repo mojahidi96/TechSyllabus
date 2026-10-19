@@ -26,6 +26,8 @@
 - NgRx Signal Store
 - Component-based and modular architecture
 - Redux (React)
+- NGXS, Zustand
+- SPA architecture (routing, API patterns, caching, error handling)
 
 **UI / Design**
 
@@ -40,7 +42,9 @@
 - Internationalization (i18n) and localization (l10n)
 - Browser and device compatibility
 - Mobile web / hybrid apps
+- React for navigation / hybrid applications
 - Component libraries and design system governance
+- Charts and data visualization (AMCharts, D3)
 - Conversational UX for GenAI (transparency, explainability, human-in-the-loop)
 
 **Integration**
@@ -53,6 +57,7 @@
 - API contracts and front-end/back-end integration testing
 - Backend API design and data integration strategies
 - Micro frontends (Module Federation / Native Federation)
+- MFE orchestration
 - OpenAPI documentation
 
 **Performance & Security**
@@ -77,6 +82,7 @@
 - Jest
 - Cypress
 - Playwright
+- Vitest, React Testing Library
 - API testing and UI test automation
 - Front-end testing strategy and integration testing
 - TDD / BDD
@@ -87,6 +93,7 @@
 - Babel
 - Angular CLI / esbuild / Vite
 - Nx / monorepos
+- Shared UI libraries
 
 **Back-End**
 
@@ -94,7 +101,7 @@
 - Express.js
 - Java Spring Boot and Python – working familiarity
 - Adobe Experience Manager (AEM) – nice to have
-- .NET – working familiarity
+- .NET / .NET Core / C# backend development
 - Layered architecture, repository pattern
 - RESTful API design
 - Microservices
@@ -106,12 +113,17 @@
 - SQL and NoSQL database architecture
 - PostgreSQL, MySQL
 - Cosmos DB, DynamoDB
+- CouchDB
+- OpenSearch
 
 **Cloud & Observability**
 
 - Azure App Service
 - Azure Service Bus
 - Azure Blob Storage
+- Azure Functions (cloud functions)
+- Azure Data Factory and ETL pipelines
+- Azure resource groups, data storage and security
 - Release automation and environment configuration
 - OpenTelemetry (distributed tracing)
 - Grafana
@@ -128,12 +140,21 @@
 - Frontend architecture (scalable, maintainable, documented)
 - Architecture documentation (ADRs, workflows, best practices)
 - Design patterns
+- Extensible, reusable software design meeting architectural objectives and security assessments
 - Reusable component design (cross web and mobile)
 - Technology and tool evaluation / selection
 - Clean code
 - Code reviews
+- Data structures and engineering fundamentals
+- Estimation and meeting delivery timelines
+- Safe rollout strategies and release hygiene
+- Pairing and incident learnings
 - Engineering standards and quality governance
 - Cross-team architectural initiatives
+- Full-stack development (about 70/30 front-end to back-end)
+- Representing the team in technical meetings
+- Working independently and driving technical decisions
+- Influencing technical decisions without authority
 - Enterprise SaaS application development
 - Product-led delivery in product organizations
 - Awareness of enterprise technology landscape and interfacing systems
@@ -154,6 +175,10 @@
 - Agentic workflows (planner-worker orchestration, automated validation loops)
 - Copilot Workspace
 - Prompt engineering for software development
+- ChatGPT, code search / refactoring assistants, test-generation helpers
+- Validating AI output (security, correctness, performance, maintainability)
+- Team guidelines for safe AI usage (prompting patterns, review standards)
+- AI-assisted refactoring, debugging and documentation
 - AI agents for code generation, testing, documentation and review
 - Responsible AI, governance frameworks, human-in-the-loop
 - Improving engineering productivity through AI-driven automation
@@ -163,10 +188,13 @@
 **DevOps & Process**
 
 - Git
+- GitLab (repository and CI/CD)
 - Branching strategies
+- Scripting (PowerShell)
 - Code promotion across dev/test/prod environments
 - Production support and change control documentation
 - Jira, Confluence
+- Azure DevOps (ADO) for Agile development
 - CI/CD
 - CI/CD pipeline standards for front-end (GitHub Actions, Azure DevOps, Jenkins)
 - Agile / cross-functional teams
@@ -178,6 +206,8 @@
 - Collaboration
 - Ownership
 - Mentoring
+- Leading projects to completion on time
+- Leading a small, distributed team across business units
 - Communicating technical considerations to non-technical stakeholders
 - Leading and growing a diverse team, knowledge sharing and internal learning
 - Troubleshooting / problem-solving
