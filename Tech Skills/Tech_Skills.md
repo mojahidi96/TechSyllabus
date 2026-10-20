@@ -35,7 +35,6 @@
 - Component libraries and design systems (collaboration with design systems teams, governance)
 - Figma
 - UI/UX principles and best practices
-- Pixel-perfect UI implementation with UX/UI designers
 - Responsive design
 - Accessibility (WCAG)
 - Internationalization (i18n) and localization (l10n)
@@ -169,7 +168,3 @@
 - Troubleshooting / problem-solving
 - Staying current with emerging frontend trends
 - Oral and written English proficiency
-
-**Domain (nice to have)**
-
-- Railway / signalling
